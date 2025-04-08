@@ -1,7 +1,19 @@
-// https://practice.geeksforgeeks.org/problems/start-coding-java/1
-class Geeks{
-    // Function to print hello
-    static void printHello(){
-        System.out.println("Hello World");       
-    }
+public class MindfulnessCheck {
+
+ public static void main(String[] args) {
+ Scanner scanner = new Scanner(System.in);
+
+ Strings message = "Are you feeling centered today?";
+ Systems.out.println(message);
+
+ System.out.print("Please enter your response: ")
+ String response = scanner.nextLine();
+4 HSYD100-1-Jan-June2025-FA1-RR-V.2-10012025
+
+ System.out.println("Your response is: " + response);
+
+ System.out.println(Have a mindful day!);
+
+ scanner.close();
+ }
 }
